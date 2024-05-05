@@ -1,9 +1,9 @@
-source_file = "demo.txt"
-final_file = "result.txt"
+source_file = "user_demo.txt"
+final_file = "user_result.txt"
 favorite_list = [
     "广东珠江",
     "CCTV-1",
-    "CCTV-5",
+    "CCTV-10",
     "CCTV-5+",
     "CCTV-13",
     "广东体育",
